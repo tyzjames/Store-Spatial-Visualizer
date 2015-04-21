@@ -1,6 +1,5 @@
 library(leaflet)
 library(shiny)
-library(ShinyDash)
 
 shinyUI(
   fluidPage(
